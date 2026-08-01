@@ -13,10 +13,20 @@ permalink: /blog/
       i de övriga guiderna.
     </p>
 
+    {% assign pillar = site.posts | where: "pillar", true | first %}
+    {% assign satellites = site.posts | where_exp: "post", "post.pillar != true" %}
     <div class="cards-grid">
-      {% for post in site.posts %}
-      <a class="card {% if post.pillar %}card-pillar{% endif %}" href="{{ site.baseurl }}{{ post.url }}">
-        <span class="card-tag">{% if post.pillar %}⭐ Pillar{% else %}{{ post.category }}{% endif %}</span>
+      {% if pillar %}
+      <a class="card card-pillar" href="{{ site.baseurl }}{{ pillar.url }}">
+        <span class="card-tag">⭐ Pillar</span>
+        <h3>{{ pillar.title }}</h3>
+        <p>{{ pillar.description | truncate: 120 }}</p>
+        <span class="card-link">Läs →</span>
+      </a>
+      {% endif %}
+      {% for post in satellites %}
+      <a class="card" href="{{ site.baseurl }}{{ post.url }}">
+        <span class="card-tag">{{ post.category }}</span>
         <h3>{{ post.title }}</h3>
         <p>{{ post.description | truncate: 120 }}</p>
         <span class="card-link">Läs →</span>

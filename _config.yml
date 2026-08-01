@@ -14,8 +14,12 @@ lang: sv
 # URL: use your actual domain once live. Leave baseurl "" for a user site
 # (username.github.io) or a custom domain. For a project repo
 # (username.github.io/repo-name), set baseurl: "/repo-name".
-url: "https://iptvflick.com"
-baseurl: ""
+# TEMP (until iptvflick.com is connected via CNAME): site lives at the
+# GitHub Pages project URL. When you connect the domain, flip these back to:
+#   url: "https://iptvflick.com"
+#   baseurl: ""
+url: "https://gdokoutlas-boop.github.io"
+baseurl: "/iptvflick"
 
 # Author / E-E-A-T signal
 author:

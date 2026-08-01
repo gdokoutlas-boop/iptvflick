@@ -11,7 +11,7 @@ featured_image_alt: "Så installerar du IPTV på Smart TV och Fire TV – steg-f
 
 # Så installerar du IPTV på Smart TV, Fire TV och Android (2026)
 
-Att installera IPTV är enklare än de flesta tror – i de flesta fall är du igång inom fem minuter. I den här guiden går vi igenom installationen steg för steg på de vanligaste enheterna: Samsung Smart TV, LG TV, Amazon Fire TV Stick, Android TV-boxar, Apple TV, mobil och dator. Oavsett vilken enhet du har, så finns det en lösning. För grunderna om vad IPTV är och hur det fungerar, se vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+Att installera IPTV är enklare än de flesta tror – i de flesta fall är du igång inom fem minuter. I den här guiden går vi igenom installationen steg för steg på de vanligaste enheterna: Samsung Smart TV, LG TV, Amazon Fire TV Stick, Android TV-boxar, Apple TV, mobil och dator. Oavsett vilken enhet du har, så finns det en lösning. För grunderna om vad IPTV är och hur det fungerar, se vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 <!-- citability-block -->
 För att installera IPTV behöver du tre saker: ett aktivt IPTV-abonnemang med inloggningsuppgifter (oftast en M3U-länk eller Xtream-koder), en IPTV-app som IPTV Smarters Pro, TiviMate eller IBO Player, samt en internetanslutning på minst 10 Mbit/s för HD och 25 Mbit/s för 4K. Processen tar normalt 3–5 minuter: ladda ner appen, mata in dina uppgifter och börja titta.
@@ -115,7 +115,7 @@ Alternativt kan du använda IPTV Smarters för Windows eller webbläsarversioner
 - **Inga kanaler visas** – uppdatera playlisten och vänta 1–2 minuter.
 - **Buffring** – starta om routern, använd kabel eller testa en annan server-URL.
 
-Fler lösningar finns i vår guide om [vanliga IPTV-problem och lösningar](/blog/vanliga-iptv-problem-losningar/).
+Fler lösningar finns i vår guide om [vanliga IPTV-problem och lösningar]({{ site.baseurl }}/blog/vanliga-iptv-problem-losningar/).
 
 ## Vanliga frågor om IPTV-installation
 
@@ -136,6 +136,6 @@ Det beror på ditt paket. Många leverantörer erbjuder paket för 1 eller 2 enh
 
 ## Sammanfattning
 
-Installation av IPTV är enkel när du vet vilken app som passar din enhet. Ladda ner en app, mata in dina uppgifter och börja titta – hela processen tar under fem minuter. Börja med ett [gratis IPTV-test](https://iptvflick.com/) så att du kan prova installationen och kvaliteten innan du bestämmer dig. Läs även vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/) för att förstå hela tjänsten.
+Installation av IPTV är enkel när du vet vilken app som passar din enhet. Ladda ner en app, mata in dina uppgifter och börja titta – hela processen tar under fem minuter. Börja med ett [gratis IPTV-test](https://iptvflick.com/) så att du kan prova installationen och kvaliteten innan du bestämmer dig. Läs även vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/) för att förstå hela tjänsten.
 
 > **Behöver du hjälp med installationen?** IPTVFlicks support är tillgänglig dygnet runt – [kontakta oss på iptvflick.com](https://iptvflick.com/).

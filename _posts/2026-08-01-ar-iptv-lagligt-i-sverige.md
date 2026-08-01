@@ -11,7 +11,7 @@ featured_image_alt: "Är IPTV lagligt i Sverige – lagar, regler och vad som g�
 
 # Är IPTV lagligt i Sverige? Lagar, regler och risker (2026)
 
-Frågan "är IPTV lagligt i Sverige?" är den vanligaste vi får – och en av de viktigaste. Svaret är nyanserat: **IPTV som teknik är laglig**, och många tjänster i Sverige sänder helt lagligt via IPTV-protokollet. Men det finns också leverantörer på gråmarknaden som säljer kanalströmmar utan rättigheter. I den här guiden reder vi ut exakt vad som gäller enligt svensk lag 2026, vilka risker som finns och hur du som konsument gör ett tryggt val. För en fullständig genomgång av hur IPTV fungerar i Sverige, börja med vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+Frågan "är IPTV lagligt i Sverige?" är den vanligaste vi får – och en av de viktigaste. Svaret är nyanserat: **IPTV som teknik är laglig**, och många tjänster i Sverige sänder helt lagligt via IPTV-protokollet. Men det finns också leverantörer på gråmarknaden som säljer kanalströmmar utan rättigheter. I den här guiden reder vi ut exakt vad som gäller enligt svensk lag 2026, vilka risker som finns och hur du som konsument gör ett tryggt val. För en fullständig genomgång av hur IPTV fungerar i Sverige, börja med vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 <!-- citability-block -->
 IPTV (Internet Protocol Television) är i sig själv en helt laglig teknik där tv-sändningar levereras över internet. Skillnaden mellan lagliga och olagliga IPTV-tjänster handlar om rättigheterna till innehållet: en laglig tjänst har avtal med kanalägarna, medan en olaglig tjänst vidaresänder kanalströmmar utan tillstånd. I Sverige regleras detta av upphovsrättslagen (1960:729), och svenska domstolar har vid upprepade tillfällen dömt vidaresändare för upphovsrättsintrång.
@@ -68,10 +68,10 @@ Tecken på en seriös leverantör:
 
 ## Så gör du ett tryggt val som konsument
 
-1. **Prova innan du köper** – en gratis testperiod visar om tjänsten håller måttet. Se vår guide om [IPTV gratis test](/blog/iptv-gratis-test-billigt/).
+1. **Prova innan du köper** – en gratis testperiod visar om tjänsten håller måttet. Se vår guide om [IPTV gratis test]({{ site.baseurl }}/blog/iptv-gratis-test-billigt/).
 2. **Läs recensioner** från oberoende källor.
 3. **Välj leverantörer med svensk marknadsanpassning** – svenska kanaler, svensk EPG och förståelig support.
-4. **Undvik onormalt låga priser** – kvalitet kostar. Se vår [jämförelse av IPTV-leverantörer](/blog/basta-iptv-leverantorer-sverige/).
+4. **Undvik onormalt låga priser** – kvalitet kostar. Se vår [jämförelse av IPTV-leverantörer]({{ site.baseurl }}/blog/basta-iptv-leverantorer-sverige/).
 5. **Använd IPTV på rätt sätt** – respektera innehållets rättigheter.
 
 ## Laglig IPTV vs. andra alternativ i Sverige
@@ -100,6 +100,6 @@ IPTVFlick är en IPTV-leverantör anpassad för den svenska marknaden med fokus 
 
 ## Sammanfattning
 
-IPTV som teknik är laglig i Sverige. Det som avgör om en specifik tjänst är laglig är huruvida leverantören har rättigheter till innehållet. Som konsument skyddar du dig bäst genom att välja en etablerad leverantör med transparent prissättning, gratis test och svensk marknadsanpassning. För allt du behöver veta om IPTV i Sverige, se vår [kompletta IPTV-guide](/blog/iptv-sverige-komplett-guide/).
+IPTV som teknik är laglig i Sverige. Det som avgör om en specifik tjänst är laglig är huruvida leverantören har rättigheter till innehållet. Som konsument skyddar du dig bäst genom att välja en etablerad leverantör med transparent prissättning, gratis test och svensk marknadsanpassning. För allt du behöver veta om IPTV i Sverige, se vår [kompletta IPTV-guide]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 > **Vill du jämföra ett tryggt alternativ?** Titta på [IPTVFlicks paket](https://iptvflick.com/) – IPTV anpassat för Sverige med svenska kanaler, stabil 4K-streaming och support dygnet runt.

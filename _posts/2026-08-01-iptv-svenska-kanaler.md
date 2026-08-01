@@ -11,7 +11,7 @@ featured_image_alt: "Svenska kanaler i IPTV – komplett lista över SVT, TV4 oc
 
 # Svenska kanaler i IPTV – Komplett lista 2026
 
-En av de vanligaste anledningarna till att svenskar väljer IPTV är möjligheten att se alla sina svenska favoritkanaler samlade på ett ställe – ofta tillsammans med internationellt utbud och sport – till ett pris som understiger ett traditionellt tv-paket. I den här guiden går vi igenom vilka svenska kanaler som typiskt ingår i IPTV 2026, hur det nordiska utbudet ser ut och vad du ska tänka på när du väljer paket. För en komplett genomgång av IPTV i Sverige, se vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+En av de vanligaste anledningarna till att svenskar väljer IPTV är möjligheten att se alla sina svenska favoritkanaler samlade på ett ställe – ofta tillsammans med internationellt utbud och sport – till ett pris som understiger ett traditionellt tv-paket. I den här guiden går vi igenom vilka svenska kanaler som typiskt ingår i IPTV 2026, hur det nordiska utbudet ser ut och vad du ska tänka på när du väljer paket. För en komplett genomgång av IPTV i Sverige, se vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 <!-- citability-block -->
 Svenska IPTV-paket innehåller vanligtvis de stora marksända och kabelkanalerna: SVT1, SVT2, TV3, TV4, Kanal 5, TV6, TV8, Sjuan och TV12. Utöver dessa ingår ofta nordiska kanaler som danska TV 2 och DR, norska TV 2 och NRK samt finska YLE-kanaler i de större paketen. Det totala antalet kanaler i ett svenskt IPTV-abonnemang ligger vanligtvis på 10 000–25 000, inklusive sport-, film-, barn- och utländska kanaler.
@@ -103,6 +103,6 @@ Vanligtvis 10 000–25 000 kanaler beroende på paket, inklusive svenska, nordis
 
 ## Sammanfattning
 
-Svenska IPTV-paket innehåller alla de stora svenska kanalerna – SVT1, SVT2, TV3, TV4, Kanal 5, TV6, TV8, Sjuan och TV12 – plus nordiska kanaler, sport, film och barninnehåll. Det viktigaste är att välja en leverantör med uppdaterade kanallistor och svensk marknadsanpassning. Börja med en gratis test för att verifiera att kanalerna du vill se faktiskt ingår. Läs mer i vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+Svenska IPTV-paket innehåller alla de stora svenska kanalerna – SVT1, SVT2, TV3, TV4, Kanal 5, TV6, TV8, Sjuan och TV12 – plus nordiska kanaler, sport, film och barninnehåll. Det viktigaste är att välja en leverantör med uppdaterade kanallistor och svensk marknadsanpassning. Börja med en gratis test för att verifiera att kanalerna du vill se faktiskt ingår. Läs mer i vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 > **Se hela kanalutbudet:** [IPTVFlick](https://iptvflick.com/) har IPTV anpassat för Sverige med svenska och nordiska kanaler – prova gratis innan du bestämmer dig.

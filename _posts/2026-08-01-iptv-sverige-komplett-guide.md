@@ -29,7 +29,7 @@ IPTV står för **Internet Protocol Television** – television som levereras ö
 3. Du öppnar en IPTV-app (t.ex. IPTV Smarters, TiviMate eller IBO Player).
 4. Appen hämtar kanallistan och strömmar kanalerna live till din enhet.
 
-Kvaliteten beror på din internetanslutning. För HD räcker cirka 10 Mbit/s, medan 4K-strömning rekommenderar 25 Mbit/s eller mer. Sveriges fiberutbyggnad – Telia, Bahnhof, Tele2 och fler – gör Sverige till ett av världens bästa länder för IPTV. [Se vilka svenska kanaler som ingår](/blog/iptv-svenska-kanaler/) i de populäraste paketen.
+Kvaliteten beror på din internetanslutning. För HD räcker cirka 10 Mbit/s, medan 4K-strömning rekommenderar 25 Mbit/s eller mer. Sveriges fiberutbyggnad – Telia, Bahnhof, Tele2 och fler – gör Sverige till ett av världens bästa länder för IPTV. [Se vilka svenska kanaler som ingår]({{ site.baseurl }}/blog/iptv-svenska-kanaler/) i de populäraste paketen.
 
 ## Varför IPTV blivit så populärt i Sverige
 
@@ -41,7 +41,7 @@ Anledningarna till IPTV-boomen i Sverige är flera:
 - **Resa & multi-enhet.** Se på tv i mobilen på bussen, på paddan i soffan och på smart-tv:n i vardagsrummet – ofta med ett abonnemang.
 - **Sport.** SHL, Allsvenskan, Premier League, Champions League, F1, NHL och UFC – ofta billigare än att köpa separata sportpaket.
 
-Om du vill jämföra leverantörer innan du bestämmer dig, läs vår [lista över bästa IPTV-leverantörer i Sverige 2026](/blog/basta-iptv-leverantorer-sverige/).
+Om du vill jämföra leverantörer innan du bestämmer dig, läs vår [lista över bästa IPTV-leverantörer i Sverige 2026]({{ site.baseurl }}/blog/basta-iptv-leverantorer-sverige/).
 
 ## Vad ingår i ett IPTV-abonnemang?
 
@@ -51,7 +51,7 @@ Ett IPTV-abonnemang i Sverige innehåller typiskt 10 000–25 000 kanaler från 
 
 ### Svenska kanaler
 
-De flesta svenska IPTV-paket innehåller SVT1, SVT2, TV3, TV4, Kanal 5, TV6, TV8, Sjuan och TV12. Härutöver ingår ofta danska, norska och finska kanaler som del av de nordiska paketen. Läs vår detaljerade [lista över svenska kanaler i IPTV](/blog/iptv-svenska-kanaler/) för att se exakt vilka kanaler du kan förvänta dig.
+De flesta svenska IPTV-paket innehåller SVT1, SVT2, TV3, TV4, Kanal 5, TV6, TV8, Sjuan och TV12. Härutöver ingår ofta danska, norska och finska kanaler som del av de nordiska paketen. Läs vår detaljerade [lista över svenska kanaler i IPTV]({{ site.baseurl }}/blog/iptv-svenska-kanaler/) för att se exakt vilka kanaler du kan förvänta dig.
 
 ### Sport
 
@@ -65,7 +65,7 @@ De flesta abonnemang har ett stort bibliotek av filmer och serier på begäran �
 
 Detta är den vanligaste frågan – och den viktigaste. **IPTV som teknik är helt laglig.** Många leverantörer, som Telia Play och Allente, sänder lagligt via IPTV-protokollet. Däremot finns det gråmarknadsleverantörer som säljer kanalströmmar utan rättigheter, vilket bryter mot upphovsrätten.
 
-Vi är transparenta: IPTVFlick rekommenderar alltid att du använder tjänster på rätt sätt och förstår lagstiftningen. Läs vår utförliga genomgång: [Är IPTV lagligt i Sverige?](/blog/ar-iptv-lagligt-i-sverige/)
+Vi är transparenta: IPTVFlick rekommenderar alltid att du använder tjänster på rätt sätt och förstår lagstiftningen. Läs vår utförliga genomgång: [Är IPTV lagligt i Sverige?]({{ site.baseurl }}/blog/ar-iptv-lagligt-i-sverige/)
 
 Viktiga punkter:
 
@@ -84,11 +84,11 @@ Priserna varierar kraftigt mellan leverantörer:
 | Årsabonnemang | 700–1500 kr | Bästa värdet per månad |
 | 2-enhetspaket | något högre pris | Se på två enheter samtidigt |
 
-OBS: Undvik onormalt billiga "livstidsabonnemang" – de är ofta oseriösa. Ett realistiskt pris speglar servrar, support och uppdateringar. Se vår guide om [billiga IPTV-abonnemang och gratis test](/blog/iptv-gratis-test-billigt/) för att undvika bluffar.
+OBS: Undvik onormalt billiga "livstidsabonnemang" – de är ofta oseriösa. Ett realistiskt pris speglar servrar, support och uppdateringar. Se vår guide om [billiga IPTV-abonnemang och gratis test]({{ site.baseurl }}/blog/iptv-gratis-test-billigt/) för att undvika bluffar.
 
 ## Så installerar du IPTV – steg för steg
 
-Att komma igång med IPTV tar mindre än fem minuter. Här är grunderna; för fullständiga guider per enhet, se [installation på Smart TV och Fire TV](/blog/installera-iptv-smart-tv-fire-tv/).
+Att komma igång med IPTV tar mindre än fem minuter. Här är grunderna; för fullständiga guider per enhet, se [installation på Smart TV och Fire TV]({{ site.baseurl }}/blog/installera-iptv-smart-tv-fire-tv/).
 
 **Steg 1 – Välj leverantör.** Jämför paket, titta på testperioder och läs recensioner. Vi rekommenderar att du alltid provar tjänsten innan du binder dig.
 
@@ -123,7 +123,7 @@ Att komma igång med IPTV tar mindre än fem minuter. Här är grunderna; för f
 - **Ingen EPG:** Vänta en stund – EPG-data kan ta upp till en timme att ladda.
 - **Långsamt internet:** IPTV kräver stabil hastighet; 10 Mbit/s för HD, 25+ för 4K.
 
-Djupgående lösningar finns i vår guide: [Vanliga IPTV-problem och lösningar](/blog/vanliga-iptv-problem-losningar/).
+Djupgående lösningar finns i vår guide: [Vanliga IPTV-problem och lösningar]({{ site.baseurl }}/blog/vanliga-iptv-problem-losningar/).
 
 ## Så väljer du rätt IPTV-leverantör – köpguiden
 

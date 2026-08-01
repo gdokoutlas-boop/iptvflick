@@ -11,7 +11,7 @@ featured_image_alt: "Vanliga IPTV-problem och lösningar – buffring, uppkoppli
 
 # Vanliga IPTV-problem och lösningar (2026)
 
-Ingen teknik är felfri, och IPTV är inget undantag. Lyckligtvis går de allra flesta problem – buffring, kanaler som inte laddar, saknad EPG eller appfel – att lösa på några minuter med rätt felsökning. Den här guiden samlar de vanligaste IPTV-problemen och konkreta lösningar, så att du kan komma tillbaka till tittandet snabbt. Ny på IPTV? Börja med vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+Ingen teknik är felfri, och IPTV är inget undantag. Lyckligtvis går de allra flesta problem – buffring, kanaler som inte laddar, saknad EPG eller appfel – att lösa på några minuter med rätt felsökning. Den här guiden samlar de vanligaste IPTV-problemen och konkreta lösningar, så att du kan komma tillbaka till tittandet snabbt. Ny på IPTV? Börja med vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 <!-- citability-block -->
 De vanligaste IPTV-problemen är buffring (ca 60 % av alla fel), kanaler som inte laddar, saknad eller tom elektronisk programguide (EPG), ljud- och bildsynkroniseringsproblem samt appkrascher. Majoriteten av dessa orsakas av nätverksflaskhalsar snarare än av själva tjänsten: för långsam eller instabil internetanslutning, Wi-Fi-störningar eller överbelastade servrar hos leverantören. De flesta problem löses genom att starta om enheter, byta till kabelanslutning eller uppdatera appen.
@@ -55,7 +55,7 @@ Buffring är det absolut vanligaste IPTV-problemet. Här är stegen i ordning:
 1. **Uppdatera appen** till senaste versionen.
 2. **Starta om enheten** – inte bara appen.
 3. **Rensa appens cache** – Inställningar → Appar → Rensa cache.
-4. **Testa en annan app** – IPTV Smarters och TiviMate fungerar olika bra på olika enheter. Se [installationsguiden](/blog/installera-iptv-smart-tv-fire-tv/) för alternativ.
+4. **Testa en annan app** – IPTV Smarters och TiviMate fungerar olika bra på olika enheter. Se [installationsguiden]({{ site.baseurl }}/blog/installera-iptv-smart-tv-fire-tv/) för alternativ.
 
 ## Problem 6: Långsam kanalväxling
 
@@ -68,7 +68,7 @@ Buffring är det absolut vanligaste IPTV-problemet. Här är stegen i ordning:
 Om ingenting fungerar:
 
 1. **Testa M3U-länken i VLC** på datorn – om den inte spelar där heller är problemet hos leverantören.
-2. **Kontrollera om domänen är blockerad** – i Sverige kan vissa IPTV-domäner blockeras av ISP:er. Se vår guide om [IPTV och laglighet](/blog/ar-iptv-lagligt-i-sverige/).
+2. **Kontrollera om domänen är blockerad** – i Sverige kan vissa IPTV-domäner blockeras av ISP:er. Se vår guide om [IPTV och laglighet]({{ site.baseurl }}/blog/ar-iptv-lagligt-i-sverige/).
 3. **Kontakta supporten** – en seriös leverantör svarar snabbt.
 
 ## Checklista: Snabb felsökning
@@ -107,6 +107,6 @@ Ja, svenska domstolar har beslutat om blockeringar av vissa IPTV-domäner. En se
 
 ## Sammanfattning
 
-De flesta IPTV-problem löses med enkel felsökning: omstart, kabelanslutning, hastighetstest och appuppdateringar. Om problemen kvarstår är nästa steg att testa en annan server, en annan enhet eller kontakta supporten. Ett proaktivt val av leverantör med stabila servrar förebygger de flesta problem från första början. Läs mer i vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+De flesta IPTV-problem löses med enkel felsökning: omstart, kabelanslutning, hastighetstest och appuppdateringar. Om problemen kvarstår är nästa steg att testa en annan server, en annan enhet eller kontakta supporten. Ett proaktivt val av leverantör med stabila servrar förebygger de flesta problem från första början. Läs mer i vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 > **Får du problem som inte går att lösa?** IPTVFlicks support finns tillgänglig dygnet runt – [besök iptvflick.com](https://iptvflick.com/) för hjälp med installation och felsökning.

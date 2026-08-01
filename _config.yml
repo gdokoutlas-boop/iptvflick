@@ -42,6 +42,7 @@ plugins:
 exclude:
   - README.md
   - cluster-plan.md
+  - SEARCH-CONSOLE-GUIDE.md
   - Gemfile
   - Gemfile.lock
   - .gitignore

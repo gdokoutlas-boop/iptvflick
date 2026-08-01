@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<article class="post">
+  <header class="post-header">
+    <nav class="breadcrumb" aria-label="Brödsmulor">
+      <a href="{{ site.baseurl }}/">Hem</a> <span aria-hidden="true">›</span>
+      <a href="{{ site.baseurl }}/blog/">Blogg</a> <span aria-hidden="true">›</span>
+      <span>{{ page.title }}</span>
+    </nav>
+    <p class="post-meta">
+      {% if page.category %}<span class="badge">{{ page.category }}</span>{% endif %}
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+    </p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="post-excerpt">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <section class="post-cta" aria-label="Rekommendation">
+    <h2>Prova IPTVFlick – IPTV anpassat för Sverige</h2>
+    <p>Stabil HD/4K-streaming, svenska kanaler, flexibla paket för 1–2 enheter och support dygnet runt.</p>
+    <a class="btn" href="https://iptvflick.com/" rel="noopener">Jämför paket på iptvflick.com</a>
+  </section>
+
+  {% if page.tags %}
+  <footer class="post-tags">
+    <strong>Taggar:</strong>
+    {% for tag in page.tags %}<span class="badge">#{{ tag }}</span>{% endfor %}
+  </footer>
+  {% endif %}
+</article>

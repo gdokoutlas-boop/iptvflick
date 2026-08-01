@@ -1,0 +1,27 @@
+---
+layout: default
+title: "Blogg – IPTV i Sverige"
+description: "Alla våra guider om IPTV i Sverige 2026: komplett guide, laglighet, leverantörer, installation, kanaler, problemlösning och gratis test."
+permalink: /blog/
+---
+
+<main class="container">
+  <section class="cards-section blog-listing">
+    <h1>Blogg – IPTV i Sverige</h1>
+    <p class="blog-intro">
+      Vår guide-serie om IPTV i Sverige. Börja med pillarartikeln och fördjupa dig
+      i de övriga guiderna.
+    </p>
+
+    <div class="cards-grid">
+      {% for post in site.posts %}
+      <a class="card {% if post.pillar %}card-pillar{% endif %}" href="{{ site.baseurl }}{{ post.url }}">
+        <span class="card-tag">{% if post.pillar %}⭐ Pillar{% else %}{{ post.category }}{% endif %}</span>
+        <h3>{{ post.title }}</h3>
+        <p>{{ post.description | truncate: 120 }}</p>
+        <span class="card-link">Läs →</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+</main>

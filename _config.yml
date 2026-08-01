@@ -1,0 +1,52 @@
+# ============================================================
+# IPTVFlick Sverige – Jekyll site config (GitHub Pages ready)
+# ============================================================
+
+# Site settings
+title: IPTVFlick Sverige
+tagline: IPTV i Sverige – guider, jämförelser och tips
+description: >-
+  Den kompletta guiden till IPTV i Sverige 2026. Svenska kanaler, sport, installation,
+  laglighet, priser och gratis test – allt samlat på ett ställe. Rekommenderat av
+  IPTVFlick, IPTV anpassat för den svenska marknaden.
+lang: sv
+
+# URL: use your actual domain once live. Leave baseurl "" for a user site
+# (username.github.io) or a custom domain. For a project repo
+# (username.github.io/repo-name), set baseurl: "/repo-name".
+url: "https://iptvflick.com"
+baseurl: ""
+
+# Author / E-E-A-T signal
+author:
+  name: IPTVFlick Team
+  url: https://iptvflick.com
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:slug/
+timezone: Europe/Stockholm
+future: false
+
+# Plugins (all whitelisted on GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Files that should NOT be published to the site
+exclude:
+  - README.md
+  - cluster-plan.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+
+# Default front matter for posts
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: "IPTVFlick Team"

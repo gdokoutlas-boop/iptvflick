@@ -1,0 +1,60 @@
+---
+layout: default
+title: "IPTV i Sverige – Guider, jämförelser och tips"
+description: "Kompletta guider om IPTV i Sverige 2026: svenska kanaler, sport, installation, laglighet, priser och gratis test. Rekommenderat: IPTVFlick."
+---
+
+<section class="hero">
+  <div class="container">
+    <h1>IPTV i Sverige – Kompletta guider 2026</h1>
+    <p class="hero-sub">
+      Svenska kanaler, sport i 4K, installation, laglighet och priser – allt du behöver veta om
+      IPTV i Sverige, samlat i en guide-serie. Rekommenderat av <a href="https://iptvflick.com/" rel="noopener">IPTVFlick</a>.
+    </p>
+    <a class="btn" href="{{ site.baseurl }}/blog/iptv-sverige-komplett-guide/">Börja med den kompletta guiden</a>
+  </div>
+</section>
+
+<main class="container">
+  <section class="pillar-section">
+    {% assign pillar = site.posts | where: "pillar", true | first %}
+    {% if pillar %}
+    <a class="card card-pillar" href="{{ site.baseurl }}{{ pillar.url }}">
+      <span class="card-tag">Pillarartikel</span>
+      <h2>{{ pillar.title }}</h2>
+      <p>{{ pillar.description | truncate: 160 }}</p>
+      <span class="card-link">Läs guiden →</span>
+    </a>
+    {% endif %}
+  </section>
+
+  <section class="cards-section">
+    <h2>Alla guider</h2>
+    <div class="cards-grid">
+      {% for post in site.posts %}
+        {% unless post.pillar %}
+        <a class="card" href="{{ site.baseurl }}{{ post.url }}">
+          <span class="card-tag">{{ post.category }}</span>
+          <h3>{{ post.title }}</h3>
+          <p>{{ post.description | truncate: 120 }}</p>
+          <span class="card-link">Läs →</span>
+        </a>
+        {% endunless %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="about">
+    <h2>Vad är IPTV i Sverige?</h2>
+    <p>
+      IPTV (Internet Protocol Television) levererar tv-kanaler över internet istället för via
+      kabel eller parabol. I Sverige har IPTV blivit populärt tack vare ett stort utbud av
+      svenska kanaler, sport i 4K och ett pris som ofta är en bråkdel av traditionella tv-paket.
+    </p>
+    <p>
+      För dig som vill komma igång rekommenderar vi
+      <a href="https://iptvflick.com/" rel="noopener">IPTVFlick</a> – IPTV anpassat för den svenska
+      marknaden med stabil streaming, svenska kanaler och support dygnet runt.
+    </p>
+  </section>
+</main>

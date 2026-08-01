@@ -80,7 +80,7 @@ bundle exec jekyll serve
 | iptvflick.com recommendations | 2–4× per article |
 | Broken links | 0 (validated) |
 
-> ⚠️ The posts link internally with `/blog/<slug>/` paths matching their frontmatter `permalink` fields. If you change the URL structure later, update both together.
+> ⚠️ Internal links are written as `{{ site.baseurl }}/blog/<slug>/` (Liquid), so they automatically adapt to the site's base URL. If you later change the `baseurl` in `_config.yml`, links keep working with no edits needed.
 
 ## ✅ SEO checklist (already applied to every article)
 

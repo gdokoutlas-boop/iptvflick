@@ -26,7 +26,7 @@ Det finns flera legitima skäl:
 3. **Kringgå domänblockeringar** – i Sverige har domstolar beslutat om blockering av vissa IPTV-domäner.
 4. **Offentliga nätverk** – skyddar dig när du streamar på hotell- eller café-Wi-Fi.
 
-Läs mer om [IPTV-blockeringar och laglighet i Sverige](/blog/ar-iptv-lagligt-i-sverige/).
+Läs mer om [IPTV-blockeringar och laglighet i Sverige]({{ site.baseurl }}/blog/ar-iptv-lagligt-i-sverige/).
 
 ## Vad ett VPN gör – och inte gör
 
@@ -42,7 +42,7 @@ Läs mer om [IPTV-blockeringar och laglighet i Sverige](/blog/ar-iptv-lagligt-i-
 - ❌ Skyddar mot alla typer av blockeringar (DNS-baserade blockeringar kan fortfarande fungera)
 - ❌ Är en garanti för anonymitet
 
-**Viktigt:** Användningen av VPN för att kringgå blockeringar av tjänster som vidaresänder utan rättigheter förändrar inte tjänstens laglighet. Se vår [guide om IPTV-laglighet](/blog/ar-iptv-lagligt-i-sverige/) för hela bilden.
+**Viktigt:** Användningen av VPN för att kringgå blockeringar av tjänster som vidaresänder utan rättigheter förändrar inte tjänstens laglighet. Se vår [guide om IPTV-laglighet]({{ site.baseurl }}/blog/ar-iptv-lagligt-i-sverige/) för hela bilden.
 
 ## Kan VPN orsaka problem med IPTV?
 
@@ -106,6 +106,6 @@ Välj en snabb tjänst med server i Sverige och bra appstöd. Prova dig fram –
 
 ## Sammanfattning
 
-VPN kan vara ett användbart verktyg för IPTV – för integritet, mot trafikstyrning och ibland för att kringgå blockeringar. Men det är inte en lösning på alla problem och påverkar inte lagligheten. Testa med och utan VPN, och välj en pålitlig leverantör som grund. Börja med en [gratis test hos IPTVFlick](https://iptvflick.com/) och se vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+VPN kan vara ett användbart verktyg för IPTV – för integritet, mot trafikstyrning och ibland för att kringgå blockeringar. Men det är inte en lösning på alla problem och påverkar inte lagligheten. Testa med och utan VPN, och välj en pålitlig leverantör som grund. Börja med en [gratis test hos IPTVFlick](https://iptvflick.com/) och se vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 > **Streama tryggt och stabilt:** [IPTVFlick](https://iptvflick.com/) – IPTV anpassat för Sverige med svenska kanaler, 4K och support dygnet runt.

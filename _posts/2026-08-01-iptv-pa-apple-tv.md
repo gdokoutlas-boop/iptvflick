@@ -86,7 +86,7 @@ När kanalerna laddats in kan du bläddra i listan, lägga till favoriter och se
 2. Kolla hastigheten – 25+ Mbit/s för 4K.
 3. Testa en annan server-URL om din leverantör har flera.
 
-Fler lösningar finns i vår guide om [vanliga IPTV-problem och lösningar](/blog/vanliga-iptv-problem-losningar/).
+Fler lösningar finns i vår guide om [vanliga IPTV-problem och lösningar]({{ site.baseurl }}/blog/vanliga-iptv-problem-losningar/).
 
 ## Vilken Apple TV-modell behöver jag?
 
@@ -115,6 +115,6 @@ Det beror på paketet. Många leverantörer, [inklusive IPTVFlick](https://iptvf
 
 ## Sammanfattning
 
-IPTV på Apple TV är enkelt: installera en app från App Store, mata in dina uppgifter och börja titta. Apple TV 4K ger utmärkt bildkvalitet och stabil prestanda. Börja med en [gratis test hos IPTVFlick](https://iptvflick.com/) för att prova på din Apple TV innan du bestämmer dig. Se även vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/) och [installationsguiden för andra enheter](/blog/installera-iptv-smart-tv-fire-tv/).
+IPTV på Apple TV är enkelt: installera en app från App Store, mata in dina uppgifter och börja titta. Apple TV 4K ger utmärkt bildkvalitet och stabil prestanda. Börja med en [gratis test hos IPTVFlick](https://iptvflick.com/) för att prova på din Apple TV innan du bestämmer dig. Se även vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/) och [installationsguiden för andra enheter]({{ site.baseurl }}/blog/installera-iptv-smart-tv-fire-tv/).
 
 > **Redo att komma igång?** [IPTVFlick](https://iptvflick.com/) fungerar på Apple TV med svenska kanaler, 4K-kvalitet och support dygnet runt.

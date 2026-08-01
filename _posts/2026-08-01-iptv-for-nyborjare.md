@@ -28,7 +28,7 @@ IPTV står för **Internet Protocol Television** – tv som levereras över inte
 - Fungerar på de flesta enheter (TV, mobil, dator)
 - Ofta utan bindningstid
 
-För en djupare genomgång, se vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+För en djupare genomgång, se vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 ## Steg 1: Vad du behöver
 
@@ -43,13 +43,13 @@ Innan du börjar, se till att du har:
 
 Som nybörjare är valet av leverantör avgörande. Dåliga leverantörer ger buffring, krångel och dålig support. Så här väljer du:
 
-- ✅ **Gratis test** – erbjuder de 24–48 timmars test? Se [hur IPTV gratis test fungerar](/blog/iptv-gratis-test-billigt/).
+- ✅ **Gratis test** – erbjuder de 24–48 timmars test? Se [hur IPTV gratis test fungerar]({{ site.baseurl }}/blog/iptv-gratis-test-billigt/).
 - ✅ **Svenska kanaler** – innehåller paketet SVT, TV4, TV3?
 - ✅ **Support** – finns det någon att fråga om det strular?
 - ✅ **Pris** – är priset realistiskt? Misstänkt billigt är ofta dåligt.
 - ✅ **Enhetsstöd** – fungerar det på den enhet du har?
 
-För en jämförelse, se vår [lista över bästa IPTV-leverantörer i Sverige 2026](/blog/basta-iptv-leverantorer-sverige/).
+För en jämförelse, se vår [lista över bästa IPTV-leverantörer i Sverige 2026]({{ site.baseurl }}/blog/basta-iptv-leverantorer-sverige/).
 
 **Vår rekommendation för nybörjare:** [IPTVFlick](https://iptvflick.com/) är anpassat för den svenska marknaden, har svenska kanaler, svensk support dygnet runt och erbjuder gratis test – perfekt när du är ny.
 
@@ -72,15 +72,15 @@ Du behöver inte förstå hur det fungerar tekniskt – du bara klistrar in uppg
 3. Klistra in dina uppgifter.
 4. Kanalerna laddas in – du är igång!
 
-Behöver du hjälp med just din enhet? Se [installationsguiden för Smart TV och Fire TV](/blog/installera-iptv-smart-tv-fire-tv/).
+Behöver du hjälp med just din enhet? Se [installationsguiden för Smart TV och Fire TV]({{ site.baseurl }}/blog/installera-iptv-smart-tv-fire-tv/).
 
 ## Vanliga misstag nybörjare gör
 
 1. **Väljer billigaste leverantören** – får dålig kvalitet och ingen support.
 2. **Skiter i gratis test** – köper direkt utan att prova.
 3. **Har för långsamt internet** – buffring överallt.
-4. **Ger upp vid första problemet** – de flesta problem löses enkelt. Se [vanliga IPTV-problem och lösningar](/blog/vanliga-iptv-problem-losningar/).
-5. **Struntar i att kolla lagligheten** – läs [är IPTV lagligt i Sverige?](/blog/ar-iptv-lagligt-i-sverige/)
+4. **Ger upp vid första problemet** – de flesta problem löses enkelt. Se [vanliga IPTV-problem och lösningar]({{ site.baseurl }}/blog/vanliga-iptv-problem-losningar/).
+5. **Struntar i att kolla lagligheten** – läs [är IPTV lagligt i Sverige?]({{ site.baseurl }}/blog/ar-iptv-lagligt-i-sverige/)
 
 ## Ordlista för nybörjare
 
@@ -112,6 +112,6 @@ Använd gratis test, kolla att svenska kanaler ingår, och välj en leverantör 
 
 ## Sammanfattning
 
-IPTV för nybörjare är enklare än det låter: välj rätt leverantör, få dina uppgifter, installera en app och börja titta. Börja med en gratis test för att bygga förtroende, och välj en leverantör med svensk anpassning och support. Läs även vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/) för allt du behöver veta.
+IPTV för nybörjare är enklare än det låter: välj rätt leverantör, få dina uppgifter, installera en app och börja titta. Börja med en gratis test för att bygga förtroende, och välj en leverantör med svensk anpassning och support. Läs även vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/) för allt du behöver veta.
 
 > **Ny på IPTV? Börja tryggt:** [IPTVFlick](https://iptvflick.com/) erbjuder gratis test, svenska kanaler och support dygnet runt – prova innan du bestämmer dig.

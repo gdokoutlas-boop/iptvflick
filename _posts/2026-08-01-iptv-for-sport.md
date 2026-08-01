@@ -38,7 +38,7 @@ Sportkanalerna ingår i de flesta IPTV-paket utan tilläggsavgift – till skill
 2. Gå till sportkategorin i kanallistan.
 3. Välj kanal och börja titta live.
 
-Se [installationsguiden](/blog/installera-iptv-smart-tv-fire-tv/) om du inte har kommit igång ännu.
+Se [installationsguiden]({{ site.baseurl }}/blog/installera-iptv-smart-tv-fire-tv/) om du inte har kommit igång ännu.
 
 ## Vad krävs för sport i 4K?
 
@@ -49,7 +49,7 @@ För bästa sportupplevelse i 4K behöver du:
 - ✅ **4K-enhet:** Apple TV 4K, Android TV-box, eller 4K-smart-TV
 - ✅ **4K-TV** som stödjer HDR
 
-> 💡 **Tips:** Live-sport är känsligast för buffring. Får du problem under matcher, se våra [lösningar på vanliga IPTV-problem](/blog/vanliga-iptv-problem-losningar/).
+> 💡 **Tips:** Live-sport är känsligast för buffring. Får du problem under matcher, se våra [lösningar på vanliga IPTV-problem]({{ site.baseurl }}/blog/vanliga-iptv-problem-losningar/).
 
 ## IPTV vs traditionella sportpaket – prisjämförelse
 
@@ -59,7 +59,7 @@ För bästa sportupplevelse i 4K behöver du:
 | IPTV med sportkanaler | 100–250 kr | Bred sport inkl. SHL, PL, F1, UFC |
 | IPTV hos IPTVFlick | Konkurrenskraftigt | Svenska kanaler + bred sport i 4K |
 
-Besparingen kan bli tusentals kronor per år – särskilt för den som följer flera sporter. Jämför leverantörer i vår [lista över bästa IPTV-leverantörer i Sverige](/blog/basta-iptv-leverantorer-sverige/).
+Besparingen kan bli tusentals kronor per år – särskilt för den som följer flera sporter. Jämför leverantörer i vår [lista över bästa IPTV-leverantörer i Sverige]({{ site.baseurl }}/blog/basta-iptv-leverantorer-sverige/).
 
 ## Vilka sportkanaler ska du leta efter?
 
@@ -68,7 +68,7 @@ Besparingen kan bli tusentals kronor per år – särskilt för den som följer 
 - **Internationella sportkanaler** – Sky Sports, ESPN, beIN Sports m.fl. för PL, UFC, tennis
 - **Nordiska sportkanaler** – för SHL och nordiska ligor
 
-Se hela [listan över svenska kanaler i IPTV](/blog/iptv-svenska-kanaler/) för mer om utbudet.
+Se hela [listan över svenska kanaler i IPTV]({{ site.baseurl }}/blog/iptv-svenska-kanaler/) för mer om utbudet.
 
 ## Så undviker du buffring under matcher
 
@@ -97,6 +97,6 @@ Välj en leverantör med stabila servrar och bred sport. [IPTVFlick](https://ipt
 
 ## Sammanfattning
 
-IPTV är ett kostnadseffektivt sätt att se sport i Sverige: SHL, Premier League, F1, UFC och mycket mer i 4K till en bråkdel av priset för traditionella sportpaket. Nyckeln är stabilt internet, rätt enhet och en pålitlig leverantör. Prova med en [gratis test hos IPTVFlick](https://iptvflick.com/) och se vår [kompletta guide om IPTV i Sverige](/blog/iptv-sverige-komplett-guide/).
+IPTV är ett kostnadseffektivt sätt att se sport i Sverige: SHL, Premier League, F1, UFC och mycket mer i 4K till en bråkdel av priset för traditionella sportpaket. Nyckeln är stabilt internet, rätt enhet och en pålitlig leverantör. Prova med en [gratis test hos IPTVFlick](https://iptvflick.com/) och se vår [kompletta guide om IPTV i Sverige]({{ site.baseurl }}/blog/iptv-sverige-komplett-guide/).
 
 > **Se sporten live i 4K:** [IPTVFlick](https://iptvflick.com/) – svenska kanaler, bred sport och support dygnet runt. Prova gratis först.

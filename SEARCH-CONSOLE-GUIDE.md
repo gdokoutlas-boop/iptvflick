@@ -62,5 +62,25 @@ Repo: `gdokoutlas-boop/iptvflick` (branch `main`)
 
 - `robots.txt` allows all crawlers and points to the sitemap (already live).
 - Every page has `index, follow` robots meta, a canonical URL, and the sitemap
-  lists all 9 URLs (homepage, blog, 7 articles). No blockers found.
+  lists all URLs (homepage, blog, 12 articles). No blockers found.
+
+---
+
+# Bonus: Bing Webmaster Tools + IndexNow
+
+## Bing Webmaster Tools
+
+1. Go to **https://www.bing.com/webmasters** → sign in → **Add site** → **Import from GSC**
+   (fastest) or add the URL manually.
+2. Choose **"HTML tag"** verification → copy the `<meta name="msvalidate.01" ...>` tag.
+3. Paste it here — I insert it into `_includes/head.html` (a `BING-VERIFY` placeholder
+   exists), push, and confirm live.
+
+## IndexNow (instant indexing — already set up)
+
+IndexNow notifies Bing/Yandex instantly when you publish or change pages. A key file
+has been added to the site root and the URLs submitted automatically on each deploy.
+
+- Key file: `https://gdokoutlas-boop.github.io/iptvflick/<key>.txt`
+- API: `https://api.indexnow.org/` (host + urlList submitted by the deploy script)
 - GitHub Pages site is public, so Google can crawl it immediately.

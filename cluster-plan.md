@@ -17,6 +17,11 @@ Hub-and-spoke cluster around the head keyword **"IPTV Sverige"** (Swedish varian
 | Svenska kanaler i IPTV – komplett kanallista | Satellite | iptv svenska kanaler | Informational | Listicle | ★★★ |
 | Vanliga IPTV-problem och lösningar | Satellite | iptv buffrar / iptv problem | Informational | Troubleshooting | ★★★ |
 | IPTV gratis test & billiga abonnemang | Satellite | iptv gratis test | Transactional | Listicle | ★★★★ |
+| IPTV vs traditionell TV | Satellite | iptv vs traditionell tv | Informational | Comparison | ★★★ |
+| IPTV för nybörjare | Satellite | iptv nybörjare | Informational | Guide | ★★★ |
+| IPTV på Apple TV | Satellite | iptv apple tv | Informational | How-to | ★★★ |
+| IPTV och VPN | Satellite | iptv vpn | Informational | Guide | ★★★ |
+| IPTV för sport | Satellite | iptv sport | Commercial | Guide | ★★★★ |
 
 ## Internal link matrix
 
@@ -36,6 +41,11 @@ Hub-and-spoke cluster around the head keyword **"IPTV Sverige"** (Swedish varian
 /blog/iptv-svenska-kanaler/
 /blog/vanliga-iptv-problem-losningar/
 /blog/iptv-gratis-test-billigt/
+/blog/iptv-vs-traditionell-tv/
+/blog/iptv-for-nyborjare/
+/blog/iptv-pa-apple-tv/
+/blog/iptv-och-vpn/
+/blog/iptv-for-sport/
 ```
 
 All internal links use `/blog/<slug>/` permalinks. Update the `permalink` field in each post's frontmatter to match your actual site structure.
